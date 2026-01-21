@@ -9,6 +9,7 @@ const schedule = [
 
   { day: 'Tuesday', time: '08:00', duration: 1, name: 'Microprocessor-based Systems', type: 'L', venue: 'LT301', color: 'from-green-500 to-teal-500' },
   { day: 'Tuesday', time: '08:50', duration: 1, name: 'Theory of Computation', type: 'L', venue: 'LT301', color: 'from-blue-400 to-blue-600' },
+  { day: 'Tuesday', time: '09:40', duration: 2, name: 'Test Automation', type: 'L', venue: 'LT301', color: 'from-cyan-400 to-cyan-600' },
   { day: 'Tuesday', time: '11:20', duration: 2, name: 'Microprocessor-based Systems + Lab', type: 'Lab', venue: 'ES-1', color: 'from-green-500 to-teal-500' },
 
   { day: 'Wednesday', time: '08:00', duration: 2, name: 'Test Automation + Lab', type: 'Lab', venue: 'SE-2', color: 'from-cyan-400 to-cyan-600' },
@@ -17,6 +18,7 @@ const schedule = [
 
   { day: 'Thursday', time: '08:50', duration: 1, name: 'Theory of Computation T', type: 'T', venue: 'E312', color: 'from-blue-400 to-blue-600' },
   { day: 'Thursday', time: '09:40', duration: 1, name: 'Innovation & Entrepreneurship', type: 'L', venue: 'LT301', color: 'from-purple-400 to-purple-600' },
+  { day: 'Thursday', time: '10:30', duration: 2, name: 'Data Engineering', type: 'L', venue: 'LT301', color: 'from-yellow-300 to-yellow-500' },
   { day: 'Thursday', time: '15:30', duration: 2, name: 'Innovation & Entrepreneurship P', type: 'Lab', venue: 'F-302', color: 'from-purple-400 to-purple-600' },
 
   { day: 'Friday', time: '13:00', duration: 1, name: 'Optimization Techniques L', type: 'L', venue: 'LT302', color: 'from-orange-400 to-orange-600' },
