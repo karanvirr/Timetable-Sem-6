@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "generate-icons": "npx pwa-asset-generator ./public/icon.png ./public --manifest ./public/manifest.json --favicon --purpose any maskable --no-hash"
   },
   "dependencies": {
     "framer-motion": "^10.12.8",

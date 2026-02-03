@@ -5,8 +5,7 @@ const schedule = [
   { day: 'Monday', time: '08:00', duration: 2, name: 'Optimization Techniques + Lab', type: 'Lab', venue: 'G201', color: 'from-orange-500 to-red-500' },
   { day: 'Monday', time: '11:20', duration: 1, name: 'Optimization Techniques', type: 'L', venue: 'LT302', color: 'from-orange-400 to-orange-600' },
   { day: 'Monday', time: '12:10', duration: 1, name: 'Theory of Computation', type: 'L', venue: 'LT302', color: 'from-blue-400 to-blue-600' },
-  { day: 'Monday', time: '15:30', duration: 2, name: 'UCSXX1 P Lab', type: 'Lab', venue: 'GC-1', color: 'from-green-400 to-emerald-600' },
-
+  
   { day: 'Tuesday', time: '08:00', duration: 1, name: 'Microprocessor-based Systems', type: 'L', venue: 'LT301', color: 'from-green-500 to-teal-500' },
   { day: 'Tuesday', time: '08:50', duration: 1, name: 'Theory of Computation', type: 'L', venue: 'LT301', color: 'from-blue-400 to-blue-600' },
   { day: 'Tuesday', time: '09:40', duration: 2, name: 'Test Automation', type: 'L', venue: 'LT301', color: 'from-cyan-400 to-cyan-600' },
